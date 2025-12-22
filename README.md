@@ -18,12 +18,12 @@
 </div>
 
 ### About me
-
+<div id="about" align="center">
 - 🎓 I’m currently learning **CV, QA**
 - 📝 I regularly make content on [YouTube](https://www.youtube.com/@akmixam)
 - 📩 Reach me by [Telegram](linkedin-link), [email](mailto:seramogy@yandex.ru)
 - 🌍 I speak Russian/English
-
+</div>
 ---
 
 ### Languages and tools
