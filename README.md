@@ -6,22 +6,22 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://youtube.com/ваш_канал">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
     <a href="mailto:seramogy@yandex.ru">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=yellow" alt="Email">
     </a>
     <a href="https://t.me/stma19">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
      </a>
+    <a href="https://www.youtube.com/@akmixam">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
 </div>
 
 ### About me
 
 - 🎓 I’m currently learning **CV, QA**
 - 📝 I regularly make content on [YouTube](https://www.youtube.com/@akmixam)
-- 📩 Reach me by [Telegram](linkedin-link), [email](mailto:seramogy@yandex.ru)
+- 📩 Reach me by [Telegram](t.me/stma19), [email](mailto:seramogy@yandex.ru)
 - 🌍 I speak Russian/English
 
 ---
