@@ -1,7 +1,7 @@
 [![Header](https://github.com/Akm1xam/Akm1xam/blob/main/assets/header.png)](https://github.com/Akm1xam)
 ---
 <div id="header" align="center">
-    <h1>Hi there, I'm  Max </h1>
+    <h1>Hi there, I'm  Max 👋</h1>
     <h3>Full Stack Developer from Russia</h3>
 </div>
 
