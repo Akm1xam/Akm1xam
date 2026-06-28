@@ -27,7 +27,6 @@
 - 🎓 I’m currently learning **Computer Vision & improving QA skills**  
 - 🔍 I specialize in **functional, regression, smoke & API testing (Postman)**  
 - 🛠 I work with **Jira, Git, SQL (basic), DevTools**  
-- 📝 I regularly make content on [YouTube](https://www.youtube.com/@akmixam)  
 - 📩 Reach me by [Telegram](https://t.me/stma19), [email](mailto:seramogy@yandex.ru)  
 - 🌍 I speak Russian / English  
 
