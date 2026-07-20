@@ -1,0 +1,89 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Maksim - QA Engineer and Full Stack Developer</title>
+  <desc id="desc">Minimal light GitHub profile banner with clean typography and product quality focus.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="112" y1="78" x2="1088" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7"/>
+      <stop offset=".52" stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#059669"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-80 0;80 0;-80 0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#4F46E5" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#059669" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 72) rotate(42) scale(430 240)">
+      <stop stop-color="#0EA5E9" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1012 338) rotate(144) scale(430 260)">
+      <stop stop-color="#10B981" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip">
+      <rect x="24" y="24" width="1152" height="372" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <rect x="24" y="24" width="1152" height="372" rx="30" fill="#FFFFFF"/>
+  <g clip-path="url(#clip)">
+    <rect x="24" y="24" width="1152" height="372" fill="#FFFFFF"/>
+    <rect x="-90" y="-130" width="570" height="430" fill="url(#glowLeft)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;34 18;0 0" dur="13s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="760" y="170" width="560" height="360" fill="url(#glowRight)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-32 -20;0 0" dur="15s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity=".45">
+      <path d="M84 94H1116" stroke="#E2E8F0"/>
+      <path d="M84 344H1116" stroke="#E2E8F0"/>
+      <path d="M300 72V348" stroke="#E2E8F0"/>
+      <path d="M910 72V348" stroke="#E2E8F0"/>
+    </g>
+
+    <rect x="84" y="88" width="1032" height="1.5" fill="url(#line)" opacity=".65">
+      <animate attributeName="x" values="-600;84;720" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(92 72)">
+      <rect width="164" height="40" rx="20" fill="#F8FAFC" stroke="#E2E8F0"/>
+      <circle cx="25" cy="20" r="5" fill="#059669"/>
+      <text x="43" y="25" fill="#475569" font-size="14" font-family="Inter, ui-sans-serif, system-ui">Available for QA</text>
+    </g>
+
+    <g transform="translate(92 176)">
+      <text x="0" y="0" fill="#0F172A" font-size="68" font-weight="800" font-family="Inter, ui-sans-serif, system-ui">Maksim</text>
+      <text x="3" y="42" fill="url(#accent)" font-size="24" font-weight="700" font-family="Inter, ui-sans-serif, system-ui">QA Engineer · Full Stack mindset</text>
+      <text x="3" y="86" fill="#475569" font-size="18" font-family="Inter, ui-sans-serif, system-ui">Testing web apps, APIs and product flows with a developer's eye for detail.</text>
+    </g>
+
+    <g transform="translate(92 306)" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700">
+      <rect x="0" y="0" width="112" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+      <text x="24" y="22" fill="#334155">Manual QA</text>
+      <rect x="126" y="0" width="106" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+      <text x="151" y="22" fill="#334155">API tests</text>
+      <rect x="246" y="0" width="124" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+      <text x="270" y="22" fill="#334155">Regression</text>
+      <rect x="384" y="0" width="112" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+      <text x="410" y="22" fill="#334155">Frontend</text>
+    </g>
+
+    <g transform="translate(776 103)">
+      <rect width="300" height="214" rx="22" fill="#F8FAFC" fill-opacity=".84" stroke="#E2E8F0"/>
+      <text x="28" y="42" fill="#64748B" font-size="13" font-family="SFMono-Regular, Consolas, monospace">profile.status</text>
+      <text x="28" y="84" fill="#0F172A" font-size="20" font-weight="800" font-family="Inter, ui-sans-serif, system-ui">Quality first</text>
+      <text x="28" y="120" fill="#334155" font-size="15" font-family="Inter, ui-sans-serif, system-ui">Clear reports</text>
+      <text x="28" y="151" fill="#334155" font-size="15" font-family="Inter, ui-sans-serif, system-ui">Stable releases</text>
+      <text x="28" y="182" fill="#334155" font-size="15" font-family="Inter, ui-sans-serif, system-ui">Better user flows</text>
+      <circle cx="247" cy="72" r="24" fill="url(#accent)" opacity=".16">
+        <animate attributeName="r" values="22;28;22" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="247" cy="72" r="7" fill="#059669"/>
+    </g>
+  </g>
+  <rect x="24.5" y="24.5" width="1151" height="371" rx="29.5" stroke="#E2E8F0"/>
+  <rect x="25.5" y="25.5" width="1149" height="369" rx="28.5" stroke="url(#line)" stroke-opacity=".7"/>
+</svg>
