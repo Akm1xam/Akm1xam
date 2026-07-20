@@ -1,0 +1,99 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Maksim - QA Engineer and Web Developer</title>
+  <desc id="desc">Colorful modern GitHub profile banner for Maksim with QA, API and frontend focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset=".45" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#ECFEFF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="86" x2="1050" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0284C7"/>
+      <stop offset=".35" stop-color="#7C3AED"/>
+      <stop offset=".68" stop-color="#EA580C"/>
+      <stop offset="1" stop-color="#059669"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-90 0;90 0;-90 0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(198 116) rotate(38) scale(430 260)">
+      <stop stop-color="#0EA5E9" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orangeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(942 384) rotate(140) scale(500 300)">
+      <stop stop-color="#F97316" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-16%" y="-18%" width="132%" height="136%">
+      <feDropShadow dx="0" dy="26" stdDeviation="30" flood-color="#64748B" flood-opacity=".18"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="24" y="24" width="1152" height="472" rx="36"/>
+    </clipPath>
+  </defs>
+
+  <rect x="24" y="24" width="1152" height="472" rx="36" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <rect x="24" y="24" width="1152" height="472" fill="url(#bg)"/>
+    <rect x="-110" y="-100" width="600" height="420" fill="url(#cyanGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;36 20;0 0" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="720" y="210" width="650" height="420" fill="url(#orangeGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-32 -22;0 0" dur="16s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity=".5">
+      <path d="M96 112H1104" stroke="#E2E8F0"/>
+      <path d="M96 408H1104" stroke="#E2E8F0"/>
+      <path d="M336 80V440" stroke="#E2E8F0"/>
+      <path d="M882 80V440" stroke="#E2E8F0"/>
+    </g>
+
+    <g transform="translate(94 78)">
+      <rect width="174" height="38" rx="19" fill="#FFFFFF" fill-opacity=".82" stroke="#E2E8F0"/>
+      <circle cx="24" cy="19" r="5" fill="#059669"/>
+      <text x="42" y="24" fill="#475569" font-size="14" font-family="Inter, ui-sans-serif, system-ui">QA in progress</text>
+    </g>
+
+    <g transform="translate(94 172)">
+      <text x="0" y="0" fill="#0F172A" font-size="78" font-weight="850" font-family="Inter, ui-sans-serif, system-ui">Maksim</text>
+      <text x="3" y="50" fill="url(#accent)" font-size="29" font-weight="780" font-family="Inter, ui-sans-serif, system-ui">QA Engineer · Web Developer</text>
+      <text x="3" y="96" fill="#475569" font-size="18" font-family="Inter, ui-sans-serif, system-ui">Clear reports for web apps, APIs and product flows.</text>
+    </g>
+
+    <g transform="translate(94 350)" font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="760">
+      <rect x="0" y="0" width="110" height="36" rx="18" fill="#E0F2FE" stroke="#0EA5E9"/>
+      <text x="24" y="23" fill="#075985">Web QA</text>
+      <rect x="124" y="0" width="108" height="36" rx="18" fill="#EDE9FE" stroke="#8B5CF6"/>
+      <text x="149" y="23" fill="#5B21B6">API tests</text>
+      <rect x="246" y="0" width="122" height="36" rx="18" fill="#FFEDD5" stroke="#F97316"/>
+      <text x="269" y="23" fill="#9A3412">Regression</text>
+      <rect x="382" y="0" width="120" height="36" rx="18" fill="#DCFCE7" stroke="#22C55E"/>
+      <text x="406" y="23" fill="#166534">Automation</text>
+    </g>
+
+    <g transform="translate(714 82)" filter="url(#shadow)">
+      <rect width="364" height="326" rx="30" fill="#FFFFFF" fill-opacity=".88" stroke="#E2E8F0"/>
+      <text x="32" y="50" fill="#64748B" font-size="13" font-family="SFMono-Regular, Consolas, monospace">release.quality</text>
+      <text x="32" y="92" fill="#0F172A" font-size="25" font-weight="830" font-family="Inter, ui-sans-serif, system-ui">Make bugs obvious</text>
+      <text x="32" y="124" fill="#475569" font-size="15" font-family="Inter, ui-sans-serif, system-ui">before they reach users.</text>
+
+      <g font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="730">
+        <rect x="32" y="164" width="128" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="54" cy="181" r="6" fill="#0284C7"/>
+        <text x="70" y="186" fill="#334155">Reproduce</text>
+        <rect x="178" y="164" width="122" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="200" cy="181" r="6" fill="#7C3AED"/>
+        <text x="216" y="186" fill="#334155">Validate</text>
+        <rect x="32" y="214" width="118" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="54" cy="231" r="6" fill="#EA580C"/>
+        <text x="70" y="236" fill="#334155">Report</text>
+        <rect x="168" y="214" width="122" height="34" rx="17" fill="#F8FAFC" stroke="#CBD5E1"/>
+        <circle cx="190" cy="231" r="6" fill="#059669"/>
+        <text x="206" y="236" fill="#334155">Improve</text>
+      </g>
+
+      <rect x="32" y="278" width="300" height="2" rx="1" fill="url(#accent)" opacity=".66"/>
+    </g>
+  </g>
+  <rect x="24.5" y="24.5" width="1151" height="471" rx="35.5" stroke="#E2E8F0"/>
+  <rect x="25.5" y="25.5" width="1149" height="469" rx="34.5" stroke="url(#accent)" stroke-opacity=".58"/>
+</svg>
