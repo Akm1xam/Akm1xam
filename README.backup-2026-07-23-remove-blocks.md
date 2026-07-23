@@ -14,6 +14,7 @@
   <br>
   <br>
 
+  <a href="https://www.linkedin.com/in/akm1xam"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:seramogy@yandex.ru"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Akm1xam"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
@@ -86,6 +87,64 @@ My current direction combines **software engineering fundamentals**, **full stac
 
 ---
 
+## Featured Projects
+
+<details>
+<summary><b>Maksim Stankovskiy Link Tree</b></summary>
+
+Personal link hub focused on clean presentation, simple navigation, and fast access to professional profiles.
+
+| Metric | Details |
+| --- | --- |
+| **Stack** | TypeScript, frontend tooling, responsive UI |
+| **Scale** | Personal portfolio utility |
+| **Performance** | Lightweight pages, fast navigation, minimal interface overhead |
+| **Security** | Static-first structure, reduced surface area |
+| **Impact** | Centralized personal links and professional presence |
+| **Repository** | [Akm1xam/Maksim-Stankovskiy-Link-Tree](https://github.com/Akm1xam/Maksim-Stankovskiy-Link-Tree) |
+
+The project is a compact portfolio touchpoint: simple enough to stay maintainable, but polished enough to support a recruiter-friendly profile.
+
+</details>
+
+<details>
+<summary><b>Outlook to Apple Calendar Skill</b></summary>
+
+Universal AI-agent skill for transferring Outlook, Exchange, and Microsoft 365 calendar events to Apple Calendar on macOS.
+
+| Metric | Details |
+| --- | --- |
+| **Stack** | Python, macOS calendar workflows, Graph / ICS-oriented imports |
+| **Scale** | Personal productivity automation |
+| **Performance** | Designed for repeatable imports and cleaner calendar migration |
+| **Security** | Focus on local workflow clarity and duplicate-protection patterns |
+| **Impact** | Reduces manual calendar transfer friction |
+| **Repository** | [Akm1xam/outlook-to-apple-calendar-skill](https://github.com/Akm1xam/outlook-to-apple-calendar-skill) |
+
+The project reflects an automation mindset: understand a repetitive workflow, reduce the manual steps, and make the result predictable.
+
+</details>
+
+<details>
+<summary><b>GitHub Profile System</b></summary>
+
+Profile README design system with premium visual hierarchy, SVG widgets, badges, and recruiter-friendly technical positioning.
+
+| Metric | Details |
+| --- | --- |
+| **Stack** | Markdown, SVG, GitHub widgets, badges |
+| **Scale** | Personal branding and portfolio layer |
+| **Performance** | Lightweight markdown with externally cached SVG widgets |
+| **Security** | No personal photos, no screenshots, no embedded scripts |
+| **Impact** | Stronger first impression for recruiters and collaborators |
+| **Repository** | [Akm1xam/Akm1xam](https://github.com/Akm1xam/Akm1xam) |
+
+The profile is built as a living portfolio: readable first, visually polished second, and easy to update as the skill set grows.
+
+</details>
+
+---
+
 ## Experience
 
 **QA Engineer / Web Developer**  
@@ -120,6 +179,47 @@ Testing and building web-oriented projects with a focus on product reliability, 
 | **Product Quality Focus** | Building a QA portfolio around reproducible reports, release confidence, and practical testing. |
 | **Open Source Presence** | Maintaining public repositories and improving GitHub profile branding. |
 | **Automation Direction** | Growing from manual QA into JavaScript and Playwright-based checks. |
+
+</div>
+
+---
+
+## Certifications
+
+**AWS**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud_Foundations_Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations Learning">
+</div>
+
+**Oracle**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-Database_Fundamentals_Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Fundamentals Learning">
+</div>
+
+**NPTEL**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Software_Engineering_Track-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Software Engineering Track">
+</div>
+
+**Cisco**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics_Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics Learning">
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+  <a href="https://leetcode.com/Akm1xam"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+  <a href="https://www.geeksforgeeks.org/user/Akm1xam"><img src="https://img.shields.io/badge/GeeksforGeeks-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"></a>
+  <a href="https://www.hackerrank.com/Akm1xam"><img src="https://img.shields.io/badge/HackerRank-0F172A?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank"></a>
+  <a href="https://www.codechef.com/users/Akm1xam"><img src="https://img.shields.io/badge/CodeChef-0F172A?style=for-the-badge&logo=codechef&logoColor=5B4638" alt="CodeChef"></a>
 
 </div>
 
@@ -200,7 +300,9 @@ open_to:
 <div align="center">
 
   <a href="mailto:seramogy@yandex.ru"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/akm1xam"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Akm1xam"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/Akm1xam"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
