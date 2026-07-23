@@ -52,7 +52,7 @@ My current direction combines **software engineering fundamentals**, **full stac
 **Languages**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,html,css&theme=dark" alt="Languages">
 </div>
 
 **Frontend**
@@ -129,21 +129,33 @@ Testing and building web-oriented projects with a focus on product reliability, 
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Akm1xam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats">
-  <img height="180" src="https://streak-stats.demolab.com?user=Akm1xam&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akm1xam&theme=tokyonight" alt="GitHub profile details" width="100%">
 
   <br>
+  <br>
 
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akm1xam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akm1xam&theme=tokyonight" alt="GitHub stats" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akm1xam&theme=tokyonight" alt="Repositories per language" width="49%">
+
+  <br>
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=Akm1xam&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akm1xam&theme=tokyonight" alt="Most committed languages" width="49%">
 
 </div>
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akm1xam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies">
+
+  <img src="https://img.shields.io/badge/Profile-Active-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Active profile">
+  <img src="https://img.shields.io/badge/Focus-QA_Engineering-4F46E5?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Engineering focus">
+  <img src="https://img.shields.io/badge/Direction-Automation-6D28D9?style=for-the-badge&logo=playwright&logoColor=white" alt="Automation direction">
+  <img src="https://img.shields.io/badge/Stack-Web_%2B_API-312E81?style=for-the-badge&logo=postman&logoColor=white" alt="Web and API stack">
+
 </div>
 
 ---
