@@ -24,30 +24,46 @@
 
 ## 👋 About Me
 
-I'm **Maksim**, a **QA Engineer and Web Developer** focused on building and testing reliable web products.
+I'm **Maksim**, a **QA Engineer and Web Developer** focused on building and testing reliable digital products.
 
-On the **QA side**, I work with web applications, APIs, user flows, test design, exploratory testing, regression testing, and bug investigation.
+In QA, I work with **web applications, REST APIs, Android and iOS apps, user flows, network traffic, and backend data**. I use exploratory and regression testing, DevTools, API tools, SQL, and proxy-based traffic inspection to investigate issues and understand how a product behaves beyond the visible interface.
 
-On the **development side**, I build web applications with JavaScript / TypeScript, React, Next.js, Node.js, databases, and modern frontend tooling.
+In development, I build web applications with **JavaScript / TypeScript, React, Next.js, Node.js, databases, and modern frontend tooling**.
 
-Working across both areas helps me understand software from two perspectives: **how it is built and how it can break**.
+Working across QA and development gives me two perspectives on the same product:
 
-I'm also expanding my automation skills with **Playwright and JavaScript / TypeScript**.
+**how it is built — and how it can break.**
+
+I'm currently expanding my automation skills with **Playwright and JavaScript / TypeScript**.
 
 ---
 
 ## 🧪 QA Engineering
 
 * Functional, exploratory, smoke and regression testing
-* Web UI and user-flow testing
+* Web UI and end-to-end user flow testing
+* Android and iOS application testing
 * REST API testing with Postman
+* Request / response and JSON validation
+* Mobile and web network traffic inspection
+* HTTP / HTTPS request analysis with proxy tools
+* Proxyman for intercepting and debugging application traffic
 * Test cases, checklists and negative scenarios
 * Boundary-value and edge-case testing
 * Bug reporting and reproducible defect documentation
 * Browser DevTools, Network and Console investigation
-* HTTP, JSON and response validation
-* Basic SQL and data verification
+* SQL and backend data validation
 * Playwright automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web_Testing-312E81?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Testing">
+<img src="https://img.shields.io/badge/API_Testing-4C1D95?style=flat-square&logo=postman&logoColor=white" alt="API Testing">
+<img src="https://img.shields.io/badge/Android_Testing-5B21B6?style=flat-square&logo=android&logoColor=white" alt="Android Testing">
+<img src="https://img.shields.io/badge/iOS_Testing-6D28D9?style=flat-square&logo=apple&logoColor=white" alt="iOS Testing">
+<img src="https://img.shields.io/badge/Proxyman-7C3AED?style=flat-square&logoColor=white" alt="Proxyman">
+
+</div>
 
 ---
 
@@ -76,27 +92,28 @@ I'm also expanding my automation skills with **Playwright and JavaScript / TypeS
 
 <br><br>
 
-### Web
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&theme=dark" alt="Web Development">
 
 <br><br>
 
-### Data & Tools
+### QA, Mobile & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,postman,git,github,docker,vscode&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=postman,androidstudio,git,github,docker,vscode,bash&theme=dark" alt="QA Mobile and Tools">
 
-</div>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/iOS-111827?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
+<img src="https://img.shields.io/badge/Proxyman-7C3AED?style=for-the-badge" alt="Proxyman">
+<img src="https://img.shields.io/badge/DevTools-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools">
 
-<div align="center">
+<br><br>
 
-<img src="https://img.shields.io/badge/Web_Testing-312E81?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Testing">
-<img src="https://img.shields.io/badge/API_Testing-4C1D95?style=flat-square&logo=postman&logoColor=white" alt="API Testing">
-<img src="https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/Next.js-6D28D9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Playwright-Learning-7C3AED?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" alt="Databases">
 
 </div>
 
@@ -105,9 +122,10 @@ I'm also expanding my automation skills with **Playwright and JavaScript / TypeS
 ## ⚡ Engineering Focus
 
 ```text
-QA              Web • API • Functional • Regression • Exploratory
+QA              Web • API • Android • iOS
+Testing         Functional • Exploratory • Regression • Smoke
+Investigation   DevTools • Proxyman • Network • HTTP • SQL
 Development     JavaScript • TypeScript • React • Next.js • Node.js
-Investigation   DevTools • Network • Console • HTTP • SQL
 Automation      Playwright • JavaScript • TypeScript
 Principles      Reliability • Clean code • Clear communication
 ```
@@ -131,13 +149,14 @@ Principles      Reliability • Clean code • Clear communication
 
 <img src="https://img.shields.io/badge/QA_Engineer-0F172A?style=for-the-badge&logo=checkmarx&logoColor=A78BFA" alt="QA Engineer">
 <img src="https://img.shields.io/badge/Web_Developer-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Web Developer">
+<img src="https://img.shields.io/badge/Mobile_QA-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Mobile QA">
 <img src="https://img.shields.io/badge/QA_Automation-0F172A?style=for-the-badge&logo=playwright&logoColor=45BA4B" alt="QA Automation">
 
 </div>
 
 <br>
 
-I'm interested in opportunities and projects involving **QA engineering, web development, API testing, frontend / full-stack development, and test automation**.
+I'm interested in opportunities and projects involving **QA engineering, web development, web and mobile testing, API testing, frontend / full-stack development, and test automation**.
 
 ---
 
@@ -155,5 +174,9 @@ I'm interested in opportunities and projects involving **QA engineering, web dev
 <br><br>
 
 **Build thoughtfully. Test thoroughly. Ship confidently.**
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:24243e,50:302b63,100:0f0c29" alt="Footer">
 
 </div>
